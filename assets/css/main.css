@@ -1,4 +1,4 @@
-body{
+body .container, body .jumboton, body .social{
 	background-color: #777;
 }
 /* Header */
